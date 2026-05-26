@@ -1,7 +1,7 @@
 {
   "name": "vodit-rf",
   "version": "1.0.0",
-  "description": "Информационная система Водить.РФ",
+  "description": "Информационная система Банкетам.нет",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
